@@ -30,7 +30,7 @@ Join my discord server
 
 # Demo
 
-Tutorial Video:
+Tutorial Video: https://youtu.be/BXBg4Irhmp0
 
 
 # Features
