@@ -3,7 +3,7 @@
 
 A Hypixel Play Sniper I made in python, fully open source, thanks for using!
 
-
+![](https://komarev.com/ghpvc/?username=KBCats&color=blueviolet)
 
 # FAQ
 
