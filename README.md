@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KBSniper&fontSize=90&animation=fadeIn)
 
+const { Contributions } = require('contributions')
+
+const contributions = await Contributions.forUser('KBCats');
+const days = contributions.getDays();
+
+for (let day of days) {
+    console.log(`${day.getDate()}: ${day.getIntensity()}`);
+}
+
 # KBSniper
 
 A Hypixel Play Sniper I made in python, fully open source, thanks for using!
