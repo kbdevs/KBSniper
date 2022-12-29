@@ -33,6 +33,7 @@ Join my discord server
 
 Tutorial Video: https://youtu.be/BXBg4Irhmp0
 
+Hopefully just open the file, if it install the packages but crashes just open it again and it should work. (tested on virtual machine)
 
 # Features
 
