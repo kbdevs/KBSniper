@@ -13,6 +13,12 @@ A Hypixel Play Sniper I made in python, fully open source, thanks for using!
 I have tested reworking this for bedrock edition (Nethergames) and haven't got it to 
 really work it was pretty slow but i'll work on it soon.
 
+## I don't want to run it on my computer
+
+Well I see your aprehensiveness of running random code on your computer which is good
+so I've made a replit that you can use in the cloud so you aren't running it yourself.
+https://replit.com/@KBSniper/KBSniper?v=1
+
 ## How do I get an api key?
 
 Login to hypixel, do /api new, click the text, it'll put it in chat ctrl+a ctrl+c and 
@@ -29,16 +35,16 @@ Go to this link and install:
 Join my discord server
 #### https://discord.gg/P3X6VYxZ9h
 
-# Demo
+## Demo
 
 Tutorial Video: https://youtu.be/BXBg4Irhmp0
 
 Hopefully just open the file, if it install the packages but crashes just open it again and it should work. (tested on virtual machine)
 
-# Features
+## Features
 
 - Pretty Quick
-- Open Source
 - Easy to use
-- Cross platform (I think)
+- Cross platform
+- Simple responses
 
