@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KBSniper&fontSize=90&animation=fadeIn)
 
+
+(obfuscated bc idk it was a while ago, its safe if you want i can give the other version but im lazy)
 # KBSniper
 
 A Hypixel Play Sniper I made in python, fully open source, thanks for using!
