@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KBSniper&fontSize=90&animation=fadeIn)
 
 
-(obfuscated bc idk it was a while ago, its safe if you want i can give the other version but im lazy)
 # KBSniper
 
 A Hypixel Play Sniper I made in python, fully open source, thanks for using!
@@ -23,8 +22,7 @@ https://replit.com/@KBSniper/KBSniper?v=1
 
 ## How do I get an api key?
 
-Login to hypixel, do /api new, click the text, it'll put it in chat ctrl+a ctrl+c and 
-paste it into the sniper when asked for it
+Login to [developers.hypixel.net](https://developer.hypixel.net/dashboard) with your forums account, and copy the dev key (it will expire in 24 hours), or you can just make an app with some bs title and description and then that wont expire.
 
 ## How do I get python 
 
@@ -34,14 +32,9 @@ Go to this link and install:
 
 ## I need help! 
 
-Join my discord server
-#### https://discord.gg/P3X6VYxZ9h
+just dm me on discord @kb.kb
 
-## Demo
 
-Tutorial Video: https://youtu.be/BXBg4Irhmp0
-
-Hopefully just open the file, if it install the packages but crashes just open it again and it should work. (tested on virtual machine)
 
 ## Features
 
