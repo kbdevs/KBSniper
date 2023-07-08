@@ -44,3 +44,5 @@ just dm me on discord @kb.kb
 - Cross platform
 - Simple responses
 
+
+© Catch Me If You Can Industries
