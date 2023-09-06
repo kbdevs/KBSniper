@@ -33,7 +33,7 @@ Go to this link and install:
 
 ## I need help! 
 
-just dm me on discord @kb.kb
+create a github issue request
 
 
 
